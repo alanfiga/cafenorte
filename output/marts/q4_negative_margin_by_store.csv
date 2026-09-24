@@ -1,0 +1,121 @@
+﻿sku_num,sku_pos,product_name,pos_erp_link_source,store_id,city,units_net,revenue_mxn,cost_mxn,margin_mxn,margin_pct,sale_lines_below_cost,sale_lines
+1,CN-00001,Sándwich Comida Caliente,inferido,T017,Guadalajara,59.0,4401.95,4964.65,-562.7,-12.78,35,35
+1,CN-00001,Sándwich Comida Caliente,inferido,T016,CDMX,47.0,3504.41,3956.65,-452.24,-12.9,36,36
+2,CN-00002,Sándwich Comida Caliente,explicito,T039,Hermosillo,34.0,4514.28,5753.95,-1239.67,-27.46,29,29
+15,CN-00015,Especial Cafe Molido,explicito,T029,Nuevo Laredo,58.0,21022.03,27587.08,-6565.05,-31.23,31,31
+15,CN-00015,Especial Cafe Molido,explicito,T032,Guadalajara,58.0,21245.09,27375.6,-6130.51,-28.86,35,35
+1,CN-00001,Sándwich Comida Caliente,inferido,T008,Cancún,33.0,2480.98,2780.65,-299.67,-12.08,25,25
+15,CN-00015,Especial Cafe Molido,explicito,T035,Querétaro,49.0,17532.2,23124.66,-5592.46,-31.9,31,31
+1,CN-00001,Sándwich Comida Caliente,inferido,T014,Nuevo Laredo,38.0,2837.17,3192.0,-354.83,-12.51,28,28
+2,CN-00002,Sándwich Comida Caliente,explicito,T035,Querétaro,40.0,5300.31,6755.93,-1455.62,-27.46,31,31
+1,CN-00001,Sándwich Comida Caliente,inferido,T030,Reynosa,30.0,2255.93,2518.23,-262.3,-11.63,21,21
+15,CN-00015,Especial Cafe Molido,explicito,T022,Mérida,52.0,18931.03,24658.5,-5727.47,-30.25,38,38
+2,CN-00002,Sándwich Comida Caliente,explicito,T010,Chihuahua,30.0,3946.29,5038.5,-1092.21,-27.68,21,21
+2,CN-00002,Sándwich Comida Caliente,explicito,T033,Monterrey,39.0,5214.76,6598.03,-1383.27,-26.53,30,30
+15,CN-00015,Especial Cafe Molido,explicito,T019,Puebla,59.0,21370.63,27897.62,-6526.99,-30.54,41,41
+15,CN-00015,Especial Cafe Molido,explicito,T006,León,47.0,16907.04,22265.38,-5358.34,-31.69,34,34
+2,CN-00002,Sándwich Comida Caliente,explicito,T013,Ciudad Juárez,82.0,10791.28,13812.43,-3021.15,-28.0,40,40
+15,CN-00015,Especial Cafe Molido,explicito,T009,Hermosillo,30.0,10881.48,14239.94,-3358.46,-30.86,25,25
+1,CN-00001,Sándwich Comida Caliente,inferido,T028,Ciudad Juárez,40.0,3006.06,3360.0,-353.94,-11.77,37,37
+1,CN-00001,Sándwich Comida Caliente,inferido,T032,Guadalajara,30.0,2256.59,2520.0,-263.41,-11.67,26,26
+15,CN-00015,Especial Cafe Molido,explicito,T001,CDMX,59.0,21592.72,28031.86,-6439.14,-29.82,38,38
+1,CN-00001,Sándwich Comida Caliente,inferido,T001,CDMX,69.0,5163.46,5796.0,-632.54,-12.25,40,40
+1,CN-00001,Sándwich Comida Caliente,inferido,T005,Querétaro,40.0,2978.91,3394.6,-415.69,-13.95,34,34
+2,CN-00002,Sándwich Comida Caliente,explicito,T007,Mérida,55.0,7204.83,9214.65,-2009.82,-27.9,34,34
+15,CN-00015,Especial Cafe Molido,explicito,T004,Puebla,70.0,25374.32,32992.78,-7618.46,-30.02,36,36
+1,CN-00001,Sándwich Comida Caliente,inferido,T015,Reynosa,52.0,3892.61,4368.0,-475.39,-12.21,37,37
+1,CN-00001,Sándwich Comida Caliente,inferido,T038,Cancún,45.0,3336.51,3780.0,-443.49,-13.29,30,30
+15,CN-00015,Especial Cafe Molido,explicito,T007,Mérida,45.0,16379.27,21372.5,-4993.23,-30.49,32,32
+15,CN-00015,Especial Cafe Molido,explicito,T011,Tijuana,49.0,17492.81,23322.62,-5829.81,-33.33,25,25
+2,CN-00002,Sándwich Comida Caliente,explicito,T006,León,37.0,4828.89,6299.99,-1471.1,-30.46,27,27
+15,CN-00015,Especial Cafe Molido,explicito,T036,León,96.0,34721.77,45722.24,-11000.47,-31.68,44,44
+2,CN-00002,Sándwich Comida Caliente,explicito,T027,Mexicali,38.0,5002.33,6428.66,-1426.33,-28.51,30,30
+2,CN-00002,Sándwich Comida Caliente,explicito,T022,Mérida,37.0,4889.26,6278.9,-1389.64,-28.42,30,30
+15,CN-00015,Especial Cafe Molido,explicito,T024,Hermosillo,32.0,11631.05,15199.94,-3568.89,-30.68,23,23
+15,CN-00015,Especial Cafe Molido,explicito,T003,Monterrey,37.0,13427.2,17551.12,-4123.92,-30.71,32,32
+2,CN-00002,Sándwich Comida Caliente,explicito,T024,Hermosillo,34.0,4434.5,5746.7,-1312.2,-29.59,24,24
+2,CN-00002,Sándwich Comida Caliente,explicito,T001,CDMX,30.0,3980.34,5064.35,-1084.01,-27.23,29,29
+2,CN-00002,Sándwich Comida Caliente,explicito,T018,Monterrey,50.0,6614.98,8472.3,-1857.32,-28.08,27,27
+2,CN-00002,Sándwich Comida Caliente,explicito,T025,Chihuahua,35.0,4564.96,5905.11,-1340.15,-29.36,24,24
+1,CN-00001,Sándwich Comida Caliente,inferido,T027,Mexicali,51.0,3784.01,4318.6,-534.59,-14.13,36,36
+1,CN-00001,Sándwich Comida Caliente,inferido,T011,Tijuana,20.0,1493.87,1680.0,-186.13,-12.46,22,22
+2,CN-00002,Sándwich Comida Caliente,explicito,T040,Chihuahua,54.0,7138.26,9151.42,-2013.16,-28.2,36,36
+2,CN-00002,Sándwich Comida Caliente,explicito,T002,Guadalajara,41.0,5376.37,6959.52,-1583.15,-29.45,22,22
+1,CN-00001,Sándwich Comida Caliente,inferido,T033,Monterrey,36.0,2684.41,3034.42,-350.01,-13.04,30,30
+1,CN-00001,Sándwich Comida Caliente,inferido,T035,Querétaro,29.0,2158.52,2436.0,-277.48,-12.86,24,24
+15,CN-00015,Especial Cafe Molido,explicito,T013,Ciudad Juárez,25.0,9083.53,11927.3,-2843.77,-31.31,19,19
+15,CN-00015,Especial Cafe Molido,explicito,T016,CDMX,59.0,21549.76,28088.86,-6539.1,-30.34,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T011,Tijuana,57.0,7551.65,9596.79,-2045.14,-27.08,30,30
+15,CN-00015,Especial Cafe Molido,explicito,T038,Cancún,56.0,20332.46,26647.24,-6314.78,-31.06,37,37
+1,CN-00001,Sándwich Comida Caliente,inferido,T036,León,40.0,2966.39,3360.0,-393.61,-13.27,24,24
+2,CN-00002,Sándwich Comida Caliente,explicito,T037,Mérida,58.0,7549.39,9802.58,-2253.19,-29.85,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T017,Guadalajara,33.0,4346.87,5551.47,-1204.6,-27.71,22,22
+1,CN-00001,Sándwich Comida Caliente,inferido,T010,Chihuahua,40.0,2974.48,3360.0,-385.52,-12.96,31,31
+15,CN-00015,Especial Cafe Molido,explicito,T037,Mérida,47.0,17003.83,22361.0,-5357.17,-31.51,34,34
+2,CN-00002,Sándwich Comida Caliente,explicito,T009,Hermosillo,44.0,5778.43,7427.31,-1648.88,-28.54,34,34
+2,CN-00002,Sándwich Comida Caliente,explicito,T032,Guadalajara,43.0,5656.72,7286.76,-1630.04,-28.82,29,29
+1,CN-00001,Sándwich Comida Caliente,inferido,T024,Hermosillo,36.0,2681.54,3024.0,-342.46,-12.77,24,24
+1,CN-00001,Sándwich Comida Caliente,inferido,T022,Mérida,41.0,3074.64,3457.96,-383.32,-12.47,29,29
+15,CN-00015,Especial Cafe Molido,explicito,T033,Monterrey,58.0,21219.84,27417.62,-6197.78,-29.21,41,41
+1,CN-00001,Sándwich Comida Caliente,inferido,T040,Chihuahua,45.0,3342.19,3780.0,-437.81,-13.1,32,32
+15,CN-00015,Especial Cafe Molido,explicito,T034,Puebla,54.0,19531.76,25804.72,-6272.96,-32.12,29,29
+1,CN-00001,Sándwich Comida Caliente,inferido,T037,Mérida,41.0,3079.51,3452.65,-373.14,-12.12,21,21
+15,CN-00015,Especial Cafe Molido,explicito,T005,Querétaro,43.0,15593.69,20405.86,-4812.17,-30.86,29,29
+2,CN-00002,Sándwich Comida Caliente,explicito,T028,Ciudad Juárez,38.0,4948.81,6392.87,-1444.06,-29.18,29,29
+15,CN-00015,Especial Cafe Molido,explicito,T031,CDMX,52.0,18578.86,24735.74,-6156.88,-33.14,31,31
+15,CN-00015,Especial Cafe Molido,explicito,T002,Guadalajara,39.0,14216.63,18504.4,-4287.77,-30.16,25,25
+2,CN-00002,Sándwich Comida Caliente,explicito,T038,Cancún,35.0,4642.98,5936.74,-1293.76,-27.86,27,27
+1,CN-00001,Sándwich Comida Caliente,inferido,T002,Guadalajara,37.0,2743.89,3108.0,-364.11,-13.27,22,22
+15,CN-00015,Especial Cafe Molido,explicito,T025,Chihuahua,33.0,11968.17,15765.44,-3797.27,-31.73,22,22
+15,CN-00015,Especial Cafe Molido,explicito,T030,Reynosa,62.0,22573.91,29382.8,-6808.89,-30.16,41,41
+15,CN-00015,Especial Cafe Molido,explicito,T020,Querétaro,28.0,10163.17,13325.28,-3162.11,-31.11,24,24
+15,CN-00015,Especial Cafe Molido,explicito,T021,León,27.0,9772.7,12811.76,-3039.06,-31.1,24,24
+2,CN-00002,Sándwich Comida Caliente,explicito,T004,Puebla,29.0,3864.65,4920.51,-1055.86,-27.32,27,27
+2,CN-00002,Sándwich Comida Caliente,explicito,T012,Mexicali,30.0,4001.84,5058.63,-1056.79,-26.41,25,25
+2,CN-00002,Sándwich Comida Caliente,explicito,T014,Nuevo Laredo,48.0,6367.4,8131.2,-1763.8,-27.7,40,40
+15,CN-00015,Especial Cafe Molido,explicito,T010,Chihuahua,24.0,8691.65,11408.76,-2717.11,-31.26,23,23
+2,CN-00002,Sándwich Comida Caliente,explicito,T030,Reynosa,38.0,5051.97,6454.28,-1402.31,-27.76,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T015,Reynosa,35.0,4655.25,5934.56,-1279.31,-27.48,21,21
+1,CN-00001,Sándwich Comida Caliente,inferido,T039,Hermosillo,35.0,2593.4,2957.3,-363.9,-14.03,30,30
+1,CN-00001,Sándwich Comida Caliente,inferido,T026,Tijuana,49.0,3673.85,4159.25,-485.4,-13.21,33,33
+1,CN-00001,Sándwich Comida Caliente,inferido,T020,Querétaro,49.0,3672.47,4116.0,-443.53,-12.08,29,29
+15,CN-00015,Especial Cafe Molido,explicito,T039,Hermosillo,44.0,15918.0,20917.68,-4999.68,-31.41,29,29
+1,CN-00001,Sándwich Comida Caliente,inferido,T013,Ciudad Juárez,43.0,3189.39,3629.3,-439.91,-13.79,28,28
+2,CN-00002,Sándwich Comida Caliente,explicito,T005,Querétaro,39.0,5136.71,6608.29,-1471.58,-28.65,30,30
+1,CN-00001,Sándwich Comida Caliente,inferido,T025,Chihuahua,29.0,2148.36,2436.0,-287.64,-13.39,27,27
+2,CN-00002,Sándwich Comida Caliente,explicito,T026,Tijuana,28.0,3672.48,4730.08,-1057.6,-28.8,26,26
+2,CN-00002,Sándwich Comida Caliente,explicito,T029,Nuevo Laredo,73.0,9580.23,12336.16,-2755.93,-28.77,35,35
+2,CN-00002,Sándwich Comida Caliente,explicito,T036,León,70.0,9182.84,11884.38,-2701.54,-29.42,38,38
+1,CN-00001,Sándwich Comida Caliente,inferido,T009,Hermosillo,37.0,2760.49,3108.0,-347.51,-12.59,24,24
+1,CN-00001,Sándwich Comida Caliente,inferido,T021,León,60.0,4456.31,5040.0,-583.69,-13.1,32,32
+15,CN-00015,Especial Cafe Molido,explicito,T027,Mexicali,52.0,18794.21,24737.36,-5943.15,-31.62,34,34
+15,CN-00015,Especial Cafe Molido,explicito,T012,Mexicali,36.0,13077.33,17051.04,-3973.71,-30.39,20,20
+1,CN-00001,Sándwich Comida Caliente,inferido,T007,Mérida,43.0,3184.41,3620.65,-436.24,-13.7,31,31
+1,CN-00001,Sándwich Comida Caliente,inferido,T031,CDMX,69.0,5220.9,5804.65,-583.75,-11.18,41,41
+1,CN-00001,Sándwich Comida Caliente,inferido,T006,León,39.0,2899.05,3276.0,-376.95,-13.0,30,30
+1,CN-00001,Sándwich Comida Caliente,inferido,T018,Monterrey,54.0,4035.88,4536.0,-500.12,-12.39,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T034,Puebla,61.0,8105.0,10266.44,-2161.44,-26.67,32,32
+15,CN-00015,Especial Cafe Molido,explicito,T040,Chihuahua,57.0,20807.03,27076.88,-6269.85,-30.13,30,30
+1,CN-00001,Sándwich Comida Caliente,inferido,T034,Puebla,27.0,2030.33,2285.3,-254.97,-12.56,25,25
+15,CN-00015,Especial Cafe Molido,explicito,T017,Guadalajara,36.0,13051.69,17129.9,-4078.21,-31.25,32,32
+1,CN-00001,Sándwich Comida Caliente,inferido,T012,Mexicali,59.0,4406.43,4973.3,-566.87,-12.86,27,27
+2,CN-00002,Sándwich Comida Caliente,explicito,T019,Puebla,23.0,3039.66,3906.93,-867.27,-28.53,16,16
+15,CN-00015,Especial Cafe Molido,explicito,T028,Ciudad Juárez,34.0,12489.92,16250.46,-3760.54,-30.11,23,23
+2,CN-00002,Sándwich Comida Caliente,explicito,T020,Querétaro,52.0,6852.78,8787.69,-1934.91,-28.24,28,28
+2,CN-00002,Sándwich Comida Caliente,explicito,T008,Cancún,43.0,5656.79,7256.25,-1599.46,-28.28,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T003,Monterrey,27.0,3539.78,4573.49,-1033.71,-29.2,22,22
+15,CN-00015,Especial Cafe Molido,explicito,T014,Nuevo Laredo,37.0,13481.58,17569.58,-4088.0,-30.32,24,24
+15,CN-00015,Especial Cafe Molido,explicito,T023,Cancún,72.0,26174.4,34006.38,-7831.98,-29.92,31,31
+1,CN-00001,Sándwich Comida Caliente,inferido,T019,Puebla,34.0,2532.22,2856.0,-323.78,-12.79,25,25
+15,CN-00015,Especial Cafe Molido,explicito,T018,Monterrey,37.0,13386.77,17666.9,-4280.13,-31.97,23,23
+15,CN-00015,Especial Cafe Molido,explicito,T026,Tijuana,56.0,20130.23,26497.86,-6367.63,-31.63,31,31
+15,CN-00015,Especial Cafe Molido,explicito,T015,Reynosa,35.0,12590.54,16616.38,-4025.84,-31.98,31,31
+1,CN-00001,Sándwich Comida Caliente,inferido,T023,Cancún,41.0,3032.06,3469.95,-437.89,-14.44,24,24
+1,CN-00001,Sándwich Comida Caliente,inferido,T004,Puebla,63.0,4671.67,5300.65,-628.98,-13.46,36,36
+1,CN-00001,Sándwich Comida Caliente,inferido,T029,Nuevo Laredo,41.0,3074.9,3444.0,-369.1,-12.0,33,33
+2,CN-00002,Sándwich Comida Caliente,explicito,T021,León,35.0,4568.78,5878.21,-1309.43,-28.66,22,22
+15,CN-00015,Especial Cafe Molido,explicito,T008,Cancún,44.0,15937.76,20897.6,-4959.84,-31.12,27,27
+1,CN-00001,Sándwich Comida Caliente,inferido,T003,Monterrey,37.0,2732.4,3108.0,-375.6,-13.75,30,30
+2,CN-00002,Sándwich Comida Caliente,explicito,T016,CDMX,54.0,7065.79,9105.64,-2039.85,-28.87,29,29
+2,CN-00002,Sándwich Comida Caliente,explicito,T023,Cancún,45.0,5940.84,7635.09,-1694.25,-28.52,26,26
+2,CN-00002,Sándwich Comida Caliente,explicito,T031,CDMX,62.0,8144.78,10484.15,-2339.37,-28.72,36,36

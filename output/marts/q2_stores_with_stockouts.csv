@@ -1,0 +1,5 @@
+﻿store_id,city,status,runs_confirmed,runs_if_na_is_zero,runs_counting_days_outside_quarter,max_days_confirmed,max_days_if_na_is_zero,skus_confirmed,skus_if_na_is_zero,has_run_censored_at_data_end
+T015,Reynosa,confirmado,1,1,1,4,4,ERP-PROV-MX-014-D,ERP-PROV-MX-014-D,False
+T016,CDMX,posible_si_na_es_cero,0,1,0,,4,,ERP-PROV-MX-020-C,False
+T023,Cancún,confirmado,1,1,1,4,4,ERP-PROV-MX-046-A,ERP-PROV-MX-046-A,False
+T038,Cancún,confirmado,1,1,1,4,4,ERP-PROV-MX-040-A,ERP-PROV-MX-040-A,False

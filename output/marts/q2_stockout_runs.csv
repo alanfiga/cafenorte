@@ -1,0 +1,8 @@
+﻿variant,store_id,sku_num,sku_erp,product_name,run_start,run_end,run_days,days_in_quarter,na_days,starts_before_quarter,censored_at_data_end
+na_rompe_racha,T015,14,ERP-PROV-MX-014-D,Descafeinado Cafe Grano,2026-02-09,2026-02-12,4,4,0,False,False
+na_rompe_racha,T038,40,ERP-PROV-MX-040-A,Chocolate Bebidas,2026-03-18,2026-03-21,4,4,0,False,False
+na_rompe_racha,T023,46,ERP-PROV-MX-046-A,Termo Mercancia,2026-01-25,2026-01-28,4,4,0,False,False
+na_entre_ceros_como_cero,T023,46,ERP-PROV-MX-046-A,Termo Mercancia,2026-01-25,2026-01-28,4,4,0,False,False
+na_entre_ceros_como_cero,T015,14,ERP-PROV-MX-014-D,Descafeinado Cafe Grano,2026-02-09,2026-02-12,4,4,0,False,False
+na_entre_ceros_como_cero,T016,20,ERP-PROV-MX-020-C,Taza Mercancia,2026-02-07,2026-02-10,4,4,2,False,False
+na_entre_ceros_como_cero,T038,40,ERP-PROV-MX-040-A,Chocolate Bebidas,2026-03-18,2026-03-21,4,4,0,False,False

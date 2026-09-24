@@ -1,0 +1,51 @@
+﻿variant,rank,sku_num,sku_pos,product_name,rotation_value
+numerador_todas_las_tiendas,10,51,CN-00051,Termo Mercancia,0.9471856654530888
+bruto_sin_restar_devoluciones,6,36,CN-00036,Gourmet Cafe Grano,0.44117600048313854
+numerador_todas_las_tiendas,7,62,CN-00062,Wrap Comida Caliente,1.010288786262312
+solo_mapeo_explicito,1,49,CN-00049,Mocha Bebidas,0.4673589850595493
+solo_mapeo_explicito,2,68,CN-00068,Croissant Panaderia,0.44346013340825846
+numerador_todas_las_tiendas,6,37,CN-00037,Tradicional Cafe Molido,1.0182805705043738
+solo_mapeo_explicito,6,69,CN-00069,Estándar Cafe Grano,0.41441592688808804
+numerador_todas_las_tiendas,5,30,CN-00030,Molinillo Mercancia,1.0273405698194205
+solo_mapeo_explicito,8,12,CN-00012,Sándwich Comida Caliente,0.4068909772513065
+bruto_sin_restar_devoluciones,9,59,CN-00059,Orgánico Cafe Grano,0.42506558834397073
+solo_mapeo_explicito,3,15,CN-00015,Especial Cafe Molido,0.4326724047557984
+numerador_todas_las_tiendas,4,8,CN-00008,Empanada Panaderia,1.0583281262080892
+solo_mapeo_explicito,5,47,CN-00047,Filtros Mercancia,0.4233711830340705
+numerador_todas_las_tiendas,3,41,CN-00041,Gourmet Cafe Molido,1.1017399394322311
+solo_mapeo_explicito,4,67,CN-00067,Premium Cafe Molido,0.43144775078559816
+solo_mapeo_explicito,7,53,CN-00053,Sándwich Comida Caliente,0.40900602190509666
+solo_mapeo_explicito,10,5,CN-00005,Croissant Panaderia,0.4058987026374588
+numerador_todas_las_tiendas,9,34,CN-00034,Estándar Cafe Molido,0.9574774269476256
+solo_mapeo_explicito,9,52,CN-00052,Americano Cafe Molido,0.40592067760535094
+numerador_todas_las_tiendas,1,57,CN-00057,Premium Cafe Grano,1.2595668929214836
+principal,5,36,CN-00036,Gourmet Cafe Grano,0.4265675236459486
+bruto_sin_restar_devoluciones,2,49,CN-00049,Mocha Bebidas,0.4767869761126238
+bruto_sin_restar_devoluciones,1,68,CN-00068,Croissant Panaderia,0.4800631920387814
+bruto_sin_restar_devoluciones,8,69,CN-00069,Estándar Cafe Grano,0.4269318441430974
+numerador_todas_las_tiendas,2,12,CN-00012,Sándwich Comida Caliente,1.1427171837758654
+numerador_todas_las_tiendas,8,15,CN-00015,Especial Cafe Molido,0.9588955997290667
+bruto_sin_restar_devoluciones,4,47,CN-00047,Filtros Mercancia,0.4486052270559687
+bruto_sin_restar_devoluciones,5,67,CN-00067,Premium Cafe Molido,0.44809525242362763
+bruto_sin_restar_devoluciones,10,53,CN-00053,Sándwich Comida Caliente,0.42253930939460355
+na_como_cero,10,5,CN-00005,Croissant Panaderia,0.4136191151328135
+principal,10,52,CN-00052,Americano Cafe Molido,0.40592067760535094
+na_como_cero,5,36,CN-00036,Gourmet Cafe Grano,0.43543167088628343
+principal,1,49,CN-00049,Mocha Bebidas,0.4673589850595493
+principal,2,68,CN-00068,Croissant Panaderia,0.44346013340825846
+principal,7,69,CN-00069,Estándar Cafe Grano,0.41441592688808804
+bruto_sin_restar_devoluciones,7,12,CN-00012,Sándwich Comida Caliente,0.42780593402590633
+bruto_sin_restar_devoluciones,3,15,CN-00015,Especial Cafe Molido,0.4619070266987577
+principal,6,47,CN-00047,Filtros Mercancia,0.4233711830340705
+principal,4,67,CN-00067,Premium Cafe Molido,0.43144775078559816
+principal,8,53,CN-00053,Sándwich Comida Caliente,0.40900602190509666
+na_como_cero,1,49,CN-00049,Mocha Bebidas,0.47628528548911364
+na_como_cero,2,68,CN-00068,Croissant Panaderia,0.4522256316408068
+na_como_cero,7,69,CN-00069,Estándar Cafe Grano,0.4225303832969773
+principal,9,12,CN-00012,Sándwich Comida Caliente,0.4068909772513065
+principal,3,15,CN-00015,Especial Cafe Molido,0.4326724047557984
+na_como_cero,6,47,CN-00047,Filtros Mercancia,0.43153357567382966
+na_como_cero,4,67,CN-00067,Premium Cafe Molido,0.44072943594854713
+na_como_cero,8,53,CN-00053,Sándwich Comida Caliente,0.41767068273092367
+na_como_cero,9,12,CN-00012,Sándwich Comida Caliente,0.41445506203843613
+na_como_cero,3,15,CN-00015,Especial Cafe Molido,0.44082941917745444

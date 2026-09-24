@@ -1,0 +1,6 @@
+﻿variant,ranking,skus_shared_with_principal,same_ranking_as_principal
+principal,[49 68 15 67 36 47 69 53 12 52],10,True
+na_como_cero,[49 68 15 67 36 47 69 53 12  5],9,False
+bruto_sin_restar_devoluciones,[68 49 15 47 67 36 12 69 59 53],9,False
+solo_mapeo_explicito,[49 68 15 67 47 69 53 12 52  5],9,False
+numerador_todas_las_tiendas,[57 12 41  8 30 37 62 15 34 51],2,False

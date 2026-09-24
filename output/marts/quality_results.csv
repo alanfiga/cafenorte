@@ -1,0 +1,55 @@
+﻿run_id,layer,check_name,severity,violations,passed,description,checked_at
+20260923T200751,staging,raw_pos_filas_vs_archivo,error,0,True,Filas en raw.pos_sales = filas leídas del archivo fuente.,2026-09-23 20:07:55.889159
+20260923T200751,staging,raw_ecommerce_filas_vs_archivo,error,0,True,Filas en raw.ecommerce_orders = filas leídas del archivo fuente.,2026-09-23 20:07:55.892548
+20260923T200751,staging,raw_fx_filas_vs_archivo,error,0,True,Filas en raw.fx_rates = filas leídas del archivo fuente.,2026-09-23 20:07:55.896609
+20260923T200751,staging,raw_snapshots_filas_vs_archivo,error,0,True,Filas en raw.erp_snapshots = filas leídas del archivo fuente.,2026-09-23 20:07:55.900045
+20260923T200751,staging,raw_catalogo_filas_vs_archivo,error,0,True,Filas en raw.erp_products = filas leídas del archivo fuente.,2026-09-23 20:07:55.903746
+20260923T200751,staging,raw_mapeo_filas_vs_archivo,error,0,True,Filas en raw.erp_sku_mappings = filas leídas del archivo fuente.,2026-09-23 20:07:55.906924
+20260923T200751,staging,raw_costos_filas_vs_archivo,error,0,True,Filas en raw.erp_cost_history = filas leídas del archivo fuente.,2026-09-23 20:07:55.910014
+20260923T200751,staging,raw_tiendas_filas_vs_archivo,error,0,True,Filas en raw.erp_stores = filas leídas del archivo fuente.,2026-09-23 20:07:55.913550
+20260923T200751,staging,pos_campos_parseables,error,0,True,"Fecha, cantidad, monto, SKU (formato CN-NNNNN) y tienda parsean en todas las filas POS.",2026-09-23 20:07:55.916043
+20260923T200751,staging,pos_venta_id_unico,error,0,True,venta_id no se repite.,2026-09-23 20:07:55.936186
+20260923T200751,staging,pos_moneda_mxn,error,0,True,El POS solo trae MXN; no se aplica tipo de cambio a tiendas.,2026-09-23 20:07:55.942125
+20260923T200751,staging,pos_tipo_comprobante_conocido,error,0,True,"Todo tipo_comprobante está en el catálogo SAT soportado (I, E, P, N, T). Un código nuevo no se suma.",2026-09-23 20:07:55.949192
+20260923T200751,staging,pos_cantidad_y_monto_positivos,error,0,True,Cantidad y monto > 0; el signo lo da el tipo de comprobante (E viene en positivo).,2026-09-23 20:07:55.951599
+20260923T200751,staging,ecommerce_campos_parseables,error,0,True,"Fecha, handle con número de 3 dígitos, cantidad y monto parsean en todas las órdenes.",2026-09-23 20:07:55.954347
+20260923T200751,staging,ecommerce_order_id_unico,error,0,True,order_id no se repite.,2026-09-23 20:07:55.960025
+20260923T200751,staging,ecommerce_moneda_conocida,error,0,True,"Monedas Shopify soportadas: MXN, USD, EUR.",2026-09-23 20:07:55.963438
+20260923T200751,staging,ecommerce_cantidad_y_monto_positivos,error,0,True,Cantidad y monto > 0 en Shopify.,2026-09-23 20:07:55.965952
+20260923T200751,staging,fx_parseable_y_positivo,error,0,True,Tipo de cambio con fecha válida y tasa > 0.,2026-09-23 20:07:55.968315
+20260923T200751,staging,fx_llave_unica,error,0,True,"Un tipo de cambio por (fecha, moneda).",2026-09-23 20:07:55.973865
+20260923T200751,staging,fx_cobertura,error,0,True,Toda orden en USD/EUR tiene tipo de cambio del mismo día.,2026-09-23 20:07:55.978897
+20260923T200751,staging,stock_valores_validos,error,0,True,El stock es entero >= 0 o el texto 'N/A'; cualquier otro valor detiene la corrida.,2026-09-23 20:07:55.986836
+20260923T200751,staging,snapshots_parseables,error,0,True,Fecha de snapshot válida.,2026-09-23 20:07:55.989386
+20260923T200751,staging,snapshots_llave_unica,error,0,True,"Un snapshot por (fecha, tienda, SKU ERP).",2026-09-23 20:07:56.032663
+20260923T200751,staging,snapshots_grilla_completa,error,0,True,Cada par tienda×SKU tiene un snapshot por día entre la primera y la última fecha del inventario (las rachas de quiebre asumen días consecutivos).,2026-09-23 20:07:56.051211
+20260923T200751,staging,catalogo_sku_formato,error,0,True,Todo sku_erp tiene formato ERP-PROV-MX-NNN-X.,2026-09-23 20:07:56.054517
+20260923T200751,staging,catalogo_numero_unico,error,0,True,Un producto por número de SKU (la llave de conciliación).,2026-09-23 20:07:56.059020
+20260923T200751,staging,costos_parseables_y_positivos,error,0,True,Costo con fecha válida y valor > 0.,2026-09-23 20:07:56.061973
+20260923T200751,staging,costos_sin_fechas_repetidas,error,0,True,"Un costo por (SKU, fecha de vigencia).",2026-09-23 20:07:56.067109
+20260923T200751,staging,mapeo_explicito_mismo_numero,error,0,True,"Supuesto de mapeo: en toda fila explícita, número de SKU POS = número de SKU ERP.",2026-09-23 20:07:56.070126
+20260923T200751,staging,mapeo_sku_pos_unico,error,0,True,Un SKU POS aparece una sola vez en el mapeo.,2026-09-23 20:07:56.074802
+20260923T200751,staging,mapeo_handle_coincide_con_nombre,error,0,True,Supuesto de mapeo: todo handle explícito = slug(nombre ERP)-NNN del producto con su número.,2026-09-23 20:07:56.081994
+20260923T200751,staging,ecommerce_handle_coincide_con_nombre,error,0,True,Todo handle vendido (explícito o no) = slug(nombre ERP)-NNN; confirma los handles inferidos.,2026-09-23 20:07:56.088317
+20260923T200751,staging,pos_sku_en_catalogo,error,0,True,Todo SKU del POS tiene producto en el catálogo ERP con su número.,2026-09-23 20:07:56.093300
+20260923T200751,staging,pos_sku_texto_unico_por_numero,error,0,True,Un número de SKU corresponde a un solo código POS.,2026-09-23 20:07:56.106093
+20260923T200751,staging,snapshots_sku_en_catalogo,error,0,True,Todo SKU de snapshots existe en el catálogo.,2026-09-23 20:07:56.114912
+20260923T200751,staging,tiendas_en_erp,error,0,True,Toda tienda del POS y de los snapshots existe en tiendas_info.,2026-09-23 20:07:56.127979
+20260923T200751,core,fct_pos_filas_vs_archivo,error,0,True,Cada fila del POS está en fct_sales (ninguna se borra).,2026-09-23 20:07:57.379741
+20260923T200751,core,fct_pos_montos_vs_archivo,error,0,True,"Monto, cantidad y filas por tipo de comprobante en fct_sales = totales calculados del CSV.",2026-09-23 20:07:57.394026
+20260923T200751,core,fct_venta_fisica_neta_vs_archivo,error,0,True,Venta física neta del modelo = monto I − monto E calculados del CSV.,2026-09-23 20:07:57.403149
+20260923T200751,core,fct_ecommerce_montos_vs_archivo,error,0,True,"Filas, monto original y cantidad por moneda en fct_sales = totales calculados del parquet.",2026-09-23 20:07:57.413933
+20260923T200751,core,fct_ecommerce_mxn_recalculado_desde_raw,error,0,True,"Venta e-commerce en MXN = Σ monto × tipo de cambio del día, recalculado directo de raw.",2026-09-23 20:07:57.423467
+20260923T200751,core,fct_producto_vinculado,error,0,True,Toda línea de venta quedó ligada a un producto del catálogo.,2026-09-23 20:07:57.426394
+20260923T200751,core,fct_costo_vigente_asignado,error,0,True,Toda venta o devolución tiene costo vigente a su fecha.,2026-09-23 20:07:57.430113
+20260923T200751,core,fct_fx_asignado,error,0,True,Toda orden en moneda extranjera tiene tipo de cambio.,2026-09-23 20:07:57.434440
+20260923T200751,core,inventario_vs_archivo,error,0,True,"Filas, conteo de N/A y suma de stock en fct_inventory_daily = lo leído del JSON.",2026-09-23 20:07:57.443875
+20260923T200751,core,dim_producto_numero_unico,error,0,True,dim_product tiene un renglón por número de SKU.,2026-09-23 20:07:57.449407
+20260923T200751,core,inventario_cubre_ventana_rotacion,error,0,True,Los snapshots cubren completa la ventana de 6 meses de la pregunta 1.,2026-09-23 20:07:57.453391
+20260923T200751,core,inventario_cubre_trimestre,error,0,True,Los snapshots cubren completo el trimestre de la pregunta 2.,2026-09-23 20:07:57.457873
+20260923T200751,core,fuentes_terminan_en_la_misma_fecha,warn,0,True,"Aviso: una fuente que termina antes del ancla deja meses sin cobertura (se reportan NULL, no 0).",2026-09-23 20:07:57.460686
+20260923T200751,marts,q1_unidades_cuadran_con_fct,error,0,True,Unidades rastreadas + no rastreadas de la P1 = unidades netas físicas de la ventana en fct_sales.,2026-09-23 20:07:57.835564
+20260923T200751,marts,q3_meses_cuadran_con_fct,error,0,True,Venta principal de la P3 por canal (meses con cobertura) = suma de fct_sales en esos meses.,2026-09-23 20:07:57.848340
+20260923T200751,marts,q4_margen_cuadra_con_fct,error,0,True,Σ margen por producto×tienda de la P4 = Σ margen de fct_sales.,2026-09-23 20:07:57.856560
+20260923T200751,marts,pii_columnas_fuera_de_raw,error,0,True,"Ninguna tabla fuera de raw tiene columnas de cliente, email, RFC o dirección.",2026-09-23 20:07:57.880188
+20260923T200751,marts,pii_valores_fuera_de_raw,error,0,True,Ningún texto fuera de raw parece email o RFC.,2026-09-23 20:07:58.147432
