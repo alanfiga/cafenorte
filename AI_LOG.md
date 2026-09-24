@@ -25,7 +25,7 @@
    Después corrió todo sobre los datos reales.
 3. **Documentación (prompt 3).** La IA verificó precios en la web, escribió la propuesta de 2 páginas, completó el README y escribió este borrador.
 
-**[TÚ: en qué puntos intervenías entre prompts (revisar código, correrlo, discutir decisiones) y cuánto tiempo te llevó cada etapa.]**
+
 
 ## 3. Prompts clave
 
@@ -62,7 +62,7 @@ Dos cambios de criterio frente a la tabla del prompt 1, forzados por tu regla 2:
 - La tabla proponía **corregir** la región y la zona horaria de las tiendas. El pipeline conserva el valor del ERP y agrega una propuesta marcada `propuesta_inferida`.
 - La tabla proponía guardar un hash del email para contar clientes recurrentes. El pipeline no guarda ningún identificador de cliente fuera de raw.
 
-Se realizó la corrida del código python `-m pipeline.run` en anaconda prompt y se validó el funcionamiento del pipeline. Posteriormente, se realizaron los  test propuestos por la IA mediante correr el código `python -m pytest -q` para la validación de la calidad, el crosscheck de los datos y las pruebas sintéticas, validando el funcionamiento del código.
+**Autocrítica**: Se realizó la corrida del código python `-m pipeline.run` en anaconda prompt y se validó el funcionamiento del pipeline. Posteriormente, se realizaron los  test propuestos por la IA mediante correr el código `python -m pytest -q` para la validación de la calidad, el crosscheck de los datos y las pruebas sintéticas, validando el funcionamiento del código.
 
 ### Prompt 3 — Documentación y propuesta
 
